@@ -1,0 +1,17 @@
+{
+  "name": "do-avm",
+  "version": "1.0.0",
+  "description": "Repo for activities from the devops fundamentals class from Valen04",
+  "license": "ISC",
+  "author": "Valen04",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bun run index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  }
+}
